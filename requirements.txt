@@ -1,0 +1,7 @@
+tensorflow
+numpy
+memory-profiler
+joblib
+scikit-learn
+scikit-image
+psutil
