@@ -39,7 +39,7 @@ DOI: 10.1145/3696673.3723074
 
 Or, BibTex (arXiv):
 
-```bash
+```bibtex
 @misc{farjad2025secureedgecomputingreference,
       title={Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking}, 
       author={Sheikh Muhammad Farjad and Sandeep Reddy Patllola and Yonas Kassa and George Grispos and Robin Gandhi},
