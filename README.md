@@ -1,5 +1,5 @@
 # edgeOps
-This repository contains the code and data used for the image classification task presented in the research paper. The project includes 100 images for classification and the channel to download a pre-trained model, all shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This repository contains the code and data used for the image classification task presented in the research paper. Along with the code, the project includes 100 test images for classification and the channel to download a pre-trained model, all shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## Repository Structure
 
