@@ -33,20 +33,24 @@ http://dx.doi.org/10.17632/5y9wdsg2zt.2.
 
 
 ## Citation
-Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking
-Sheikh Muhammad Farjad, Sandeep Reddy Patllola, Yonas Kassa, George Grispos, Robin Gandhi
-DOI: 10.1145/3696673.3723074
+Sheikh Muhammad Farjad, Sandeep Reddy Patllola, Yonas Kassa, George Grispos, and Robin Gandhi. 2025. Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking. In Proceedings of the 2025 ACM Southeast Conference (ACMSE 2025). Association for Computing Machinery, New York, NY, USA, 145–154. https://doi.org/10.1145/3696673.3723074
 
 Or, BibTex (arXiv):
 
 ```bibtex
-@misc{farjad2025secureedgecomputingreference,
-      title={Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking}, 
-      author={Sheikh Muhammad Farjad and Sandeep Reddy Patllola and Yonas Kassa and George Grispos and Robin Gandhi},
-      year={2025},
-      eprint={2503.18857},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2503.18857}, 
+@inproceedings{10.1145/3696673.3723074,
+author = {Farjad, Sheikh Muhammad and Patllola, Sandeep Reddy and Kassa, Yonas and Grispos, George and Gandhi, Robin},
+title = {Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking},
+year = {2025},
+isbn = {9798400712777},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3696673.3723074},
+doi = {10.1145/3696673.3723074},
+pages = {145–154},
+numpages = {10},
+keywords = {edge computing, structural health monitoring, machine learning},
+location = {Southeast Missouri State University, Cape Girardeau, MO, USA},
+series = {ACMSE 2025}
 }
 ```
