@@ -35,7 +35,7 @@ http://dx.doi.org/10.17632/5y9wdsg2zt.2.
 ## Citation
 Sheikh Muhammad Farjad, Sandeep Reddy Patllola, Yonas Kassa, George Grispos, and Robin Gandhi. 2025. Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking. In Proceedings of the 2025 ACM Southeast Conference (ACMSE 2025). Association for Computing Machinery, New York, NY, USA, 145–154. https://doi.org/10.1145/3696673.3723074
 
-Or, BibTex (arXiv):
+Or, BibTex:
 
 ```bibtex
 @inproceedings{10.1145/3696673.3723074,
